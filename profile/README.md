@@ -1,4 +1,4 @@
-## Hi there 👋
+## SlogK Tech Public Profile 👋
 
 <!--
 
