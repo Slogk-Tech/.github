@@ -1,1 +1,1 @@
-# .github
+# SlogK Tech
